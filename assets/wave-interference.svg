@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <g stroke="#06b6d4" stroke-width="1.1" fill="none" opacity="0.8">
+
+    <!-- Left waves -->
+    <path d="M0 200 Q 75 150 150 200 T 300 200"/>
+    <path d="M0 200 Q 75 250 150 200 T 300 200"/>
+
+    <!-- Right waves -->
+    <path d="M300 200 Q 375 150 450 200 T 600 200"/>
+    <path d="M300 200 Q 375 250 450 200 T 600 200"/>
+
+  </g>
+
+  <!-- Slits -->
+  <rect x="285" y="120" width="6" height="40" fill="#7c3aed"/>
+  <rect x="285" y="240" width="6" height="40" fill="#7c3aed"/>
+
+</svg>
